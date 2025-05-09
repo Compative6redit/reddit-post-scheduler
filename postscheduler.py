@@ -10,11 +10,11 @@ f= open("postscheduler.log","a+")
 
 #Credentials
 reddit = praw.Reddit(
-	client_id='',
-	client_secret='',
-	password='',
+	client_id='e-DyXIur6tRooklFEmnqSg',
+	client_secret='HGupCTrt0RzOVOLURtqDX9DRwI4X4Q',
+	password='chakerzehar',
 	user_agent='postscheduler v.2b by /u/ibid-11962',
-	username=''
+	username='Competitive_Meet_382'
 )
 
 
