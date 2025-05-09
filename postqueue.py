@@ -44,8 +44,8 @@
 posts = [
 
 #---------------------#
-{"sub": "subredditname",
-"title": "titletext",
+{"sub": "r/BDSMOutdoors",
+"title": "Oh yah",
 "text": "bodytext",
 "commenttext": "commenttext",
 "date": "8,11"},
@@ -60,11 +60,11 @@ posts = [
 
 #---------------------#
 
-{"sub": "subredditname",
-"title": "titletext",
-"image": "path/to/image",
+{"sub": "r/BDSMOutdoors",
+"title": "Oh yah",
+"image": "C:\Users\Sc\Desktop\reddit\Nouveau dossier\bdsm\4",
 "commenttext": "commenttext",
-"date": "7,20"},
+"date": "05,09"},
 
 ]
 ###############################################################################
